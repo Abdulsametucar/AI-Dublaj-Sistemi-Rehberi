@@ -80,6 +80,8 @@ Günümüzde video içerikleri, küresel izleyici kitlesine ulaşmak için kriti
 ## 📺 Kullanım
 - 📹 *YouTube Kullanım Linki*:
 - 🔗 *GitHub Linki*:(https://github.com/sidikafirat/AI-Dublaj-Sistemi-Rehberi)
+![image](https://github.com/user-attachments/assets/4900f718-4ccc-4e92-a9e0-23e50f20765e)
+
 
 ---
 🚀 *Takipte kalın!*
